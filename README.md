@@ -4,7 +4,7 @@
 
 1. Have a look at the sales insights dashboards here - https://app.powerbi.com/groups/me/reports/f45644e1-5aca-4c65-ad6b-0de1b9f15b80/ReportSection?redirectedFromSignup=1
 2. In the workspace, you can access 3 dashboards by the name Dashboard 1, Dashboard 2, Dashboard 3.
-3. In the dashboard, you can choose toggle the financial year or month and the data would change accordingly.   
+3. In the dashboard, you can choose to toggle the financial year or month and the data would change accordingly.   
 
 ### Instructions to setup mysql on your local computer
 
