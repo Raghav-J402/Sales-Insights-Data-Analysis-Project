@@ -6,6 +6,9 @@
 2. In the workspace, you can access 3 dashboards by the name Dashboard 1, Dashboard 2, Dashboard 3.
 3. In the dashboard, you can choose to toggle the financial year or month and the data would change accordingly.   
 
+### Power BI app
+1. To open the dashboard on mobile , you can use the Power BI mobile appliction and use the abouve dashboard link to open it in the app.
+
 ### Instructions to setup mysql on your local computer
 
 1. Follow step in this video to install mysql on your local computer - 
