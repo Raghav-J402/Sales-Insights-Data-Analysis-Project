@@ -2,12 +2,13 @@
 
 ### Power BI dashboard
 
-1. Have a look at the sales insights dashboards here - https://app.powerbi.com/groups/me/reports/f45644e1-5aca-4c65-ad6b-0de1b9f15b80/ReportSection?redirectedFromSignup=1
-2. In the workspace, you can access 3 dashboards by the name Dashboard 1, Dashboard 2, Dashboard 3.
+1. To use the dashboard, download Power BI app from microsoft store and then download the .pbix file attached in this repository.
+2. After the .pbix file is opened Power BI app, you can access 3 dashboards by the name Dashboard 1, Dashboard 2, Dashboard 3.
 3. In the dashboard, you can choose to toggle the financial year or month and the data would change accordingly.   
 
 ### Power BI app
-1. To open the dashboard on mobile , you can use the Power BI mobile appliction and use the abouve dashboard link to open it in the app.
+1. To open the dashboard on mobile , you nedd to publish this power bi file in your power bi workspace.
+2. Once you do that, you can download the Power BI mobile app, login with your workspace account and access the dashboard
 
 ### Instructions to setup mysql on your local computer
 
